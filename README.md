@@ -25,7 +25,7 @@ To use this repository, you'll need Python installed on your computer. If you do
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/metenis/python-fundamentals.git](https://github.com/metenis/python-fundamentals.git)
+    git clone https://github.com/metenis/python-fundamentals.git
     ```
     *(This command downloads the repository content to your local machine)*
 
